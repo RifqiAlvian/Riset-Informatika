@@ -1,7 +1,7 @@
 # Riset Informatika
 
-# Rifqi Alvian Ardhiansyah
-# 20081010239
+Nama  = Rifqi Alvian Ardhiansyah
+NPM   = 20081010239
 
 # Topik Penelitian
 Judul: KLASIFIKASI JENIS KENDARAAN MENGGUNAKAN METODE CONVOLUTIONAL NEURAL NETWORK (CNN)
