@@ -1,5 +1,5 @@
 # Riset-Informatika
 
-Nama = Rifqi Alvian Arhiansyah (20081010239)
+Nama = Rifqi Alvian Arhiansyah
 
-a
+NPM  = 20081010239
