@@ -3,6 +3,7 @@
 - Nama  = Rifqi Alvian Ardhiansyah
 - NPM   = 20081010239
 
+# Tugas 1
 # Topik Penelitian
 Judul: KLASIFIKASI JENIS KENDARAAN MENGGUNAKAN METODE CONVOLUTIONAL NEURAL NETWORK (CNN)
 
