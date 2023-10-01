@@ -1,5 +1,5 @@
 # Riset-Informatika
 
-Rifqi Alvian Arhiansyah
+# Rifqi Alvian Arhiansyah
 
-200810102339
+# 200810102339
