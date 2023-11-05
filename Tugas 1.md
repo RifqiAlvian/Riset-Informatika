@@ -4,8 +4,10 @@
 - NPM   = 20081010239
 
 # Tugas 1
-# Topik Penelitian
+# Judul
 Judul: KLASIFIKASI JENIS KENDARAAN MENGGUNAKAN METODE CONVOLUTIONAL NEURAL NETWORK (CNN)
+
+# Topik Penelitian
 
 Salah satu persoalan praktis yang perlu diselesaikan melalui penelitian ini adalah untuk meningkatkan efisiensi dalam mengklasifikasikan kendaraan berdasarkan citra, persoalan praktis tersebut dapat diatasi dengan menggunakan Convolutional Neural Network (CNN) adalah klasifikasi kendaraan berdasarkan gambar. Hal ini dapat berguna dalam memantau dan mengendalikan arus lalu lintas, terutama pada situasi dimana kendaraan tidak mengikuti jalur yang telah ditentukan. 
 
