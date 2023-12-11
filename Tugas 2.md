@@ -6,3 +6,6 @@
 2. Metode
 Pengertian : Serangkaian langkah atau teknik khusus yang digunakan dalam penelitian untuk menentukan bagaimana data dikumpulkan, diolah, dan dianalisis. Mencakup instrumen penelitian, teknik pengumpulan data, dan alat analisis yang digunakan.
 Contoh : deskripsi eksperimental, penelitian lapangan, analisis data, dan alat-alat yang digunakan untuk mengumpulkan informasi
+
+# Paper Yang Menggunakan Metode/Metodologi
+- [PERANCANGAN SISTEM INFORMASI MANAJEMEN PELAYANAN ANGGOTA JEMAAT, BAPTISAN, DAN PERNIKAHAN BERBASIS WEB (STUDI KASUS: GEKARI LEMBAH PUJIAN KOTA SORONG)
