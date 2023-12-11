@@ -9,6 +9,15 @@ Contoh : deskripsi eksperimental, penelitian lapangan, analisis data, dan alat-a
 
 # Paper Yang Menggunakan Metode/Metodologi
 1. Metodologi
-- https://www.researchgate.net/publication/324945748_Perancangan_Sistem_Informasi_Manajemen_Pelayanan_Anggota_Jemaat_Baptisan_dan_Pernikahan_Berbasis_Web_Studi_Kasus_Gekari_Lembah_Pujian_Kota_Sorong
+- [Perancangan Sistem_ Informasi Manajemen Pelayanan Anggota Jemaat Baptisan dan Pernikahan Berbasis Web Studi Kasus Gekari Lembah Pujian Kota Sorong](https://www.researchgate.net/publication/324945748_Perancangan_Sistem_Informasi_Manajemen_Pelayanan_Anggota_Jemaat_Baptisan_dan_Pernikahan_Berbasis_Web_Studi_Kasus_Gekari_Lembah_Pujian_Kota_Sorong)
 2. Metode
-- http://jurnal.atmaluhur.ac.id/index.php/sisfokom/article/view/931/678
+- [Systematic Literature ReviewPenggunaan Metodologi Pengembangan Sistem Informasi Waterfall, Agile, danHybrid](https://journal.unesa.ac.id/index.php/jieet/article/view/21941/9729)
+
+# Implementasi pada Penelitian
+1. Metode
+- Metode Agile: Metode pengembangan perangkat lunak Agile, seperti Scrum atau Kanban.
+- Metode Prototipe: Metode yang melibatkan pengguna dalam pengembangan sistem.
+- Metode Spiral: Metode spiral menggabungkan unsur iterasi dan pengembangan berbasis risiko.
+2. Metodologi
+- Pendekatan Pengembangan Perangkat Lunak Scrum: Metodologi ini sangat fleksibel dan adaptif, serta mendorong fokus pada pengembangan yang berkualitas.
+- Pendekatan Pengembangan Perangkat Lunak Agile: Metodologi ini dapat beradaptasi terhadap perubahan, serta dapat memberikan fleksibilitas dan transparansi yang diperlukan.
