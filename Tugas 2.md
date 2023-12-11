@@ -20,6 +20,7 @@ Contoh : deskripsi eksperimental, penelitian lapangan, analisis data, dan alat-a
 - Metode Agile: Metode pengembangan perangkat lunak Agile, seperti Scrum atau Kanban.
 - Metode Prototipe: Metode yang melibatkan pengguna dalam pengembangan sistem.
 - Metode Spiral: Metode spiral menggabungkan unsur iterasi dan pengembangan berbasis risiko.
+- Metode CNN: Metode CNN merupakan teknologi yang memungkinkan analisis citra digital dengan akurasi tinggi
 2. Metodologi
 - Pendekatan Pengembangan Perangkat Lunak Scrum: Metodologi ini sangat fleksibel dan adaptif, serta mendorong fokus pada pengembangan yang berkualitas.
 - Pendekatan Pengembangan Perangkat Lunak Agile: Metodologi ini dapat beradaptasi terhadap perubahan, serta dapat memberikan fleksibilitas dan transparansi yang diperlukan.
