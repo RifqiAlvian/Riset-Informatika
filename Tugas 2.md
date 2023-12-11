@@ -8,4 +8,4 @@ Pengertian : Serangkaian langkah atau teknik khusus yang digunakan dalam penelit
 Contoh : deskripsi eksperimental, penelitian lapangan, analisis data, dan alat-alat yang digunakan untuk mengumpulkan informasi
 
 # Paper Yang Menggunakan Metode/Metodologi
-- [PERANCANGAN SISTEM INFORMASI MANAJEMEN PELAYANAN ANGGOTA JEMAAT, BAPTISAN, DAN PERNIKAHAN BERBASIS WEB (STUDI KASUS: GEKARI LEMBAH PUJIAN KOTA SORONG)
+- (https://www.researchgate.net/publication/324945748_Perancangan_Sistem_Informasi_Manajemen_Pelayanan_Anggota_Jemaat_Baptisan_dan_Pernikahan_Berbasis_Web_Studi_Kasus_Gekari_Lembah_Pujian_Kota_Sorong)
