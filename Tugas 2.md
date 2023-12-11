@@ -10,7 +10,9 @@ Contoh : deskripsi eksperimental, penelitian lapangan, analisis data, dan alat-a
 # Paper Yang Menggunakan Metode/Metodologi
 1. Metodologi
 - [Perancangan Sistem_ Informasi Manajemen Pelayanan Anggota Jemaat Baptisan dan Pernikahan Berbasis Web Studi Kasus Gekari Lembah Pujian Kota Sorong](https://www.researchgate.net/publication/324945748_Perancangan_Sistem_Informasi_Manajemen_Pelayanan_Anggota_Jemaat_Baptisan_dan_Pernikahan_Berbasis_Web_Studi_Kasus_Gekari_Lembah_Pujian_Kota_Sorong)
+- [Classification using deep learning neural networks for brain tumors](https://www.sciencedirect.com/science/article/pii/S2314728817300636)
 2. Metode
+- [Improving the performance of CNN to predict the likelihood of COVID-19 using chest X-ray images with preprocessing algorithms](https://www.sciencedirect.com/science/article/pii/S138650562030959X)
 - [Systematic Literature ReviewPenggunaan Metodologi Pengembangan Sistem Informasi Waterfall, Agile, danHybrid](https://journal.unesa.ac.id/index.php/jieet/article/view/21941/9729)
 
 # Implementasi pada Penelitian
